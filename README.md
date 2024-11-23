@@ -6,6 +6,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 OkiDoki is open source knowledge base for self-hosting based on NextJs + Typescript + Tailwind. Idea of product is making easier way to run own online notepad with simple editor.
 
 ## Getting Started
@@ -54,6 +55,8 @@ bun dev
 >>>>>>> 532f91860b414abb0d081cacfa1f7980da2cfaf7
 =======
 >>>>>>> 532f91860b414abb0d081cacfa1f7980da2cfaf7
+=======
+>>>>>>> 532f91860b414abb0d081cacfa1f7980da2cfaf7
 OkiDoki client is open source knowledge base based on NextJs + Typescript + Tailwing. Idea of product is making easier way to run own online notepad with simple editor.
 
 ### Russian
@@ -64,6 +67,9 @@ OkiDoki клиент это открытая база знаний в основ
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 532f91860b414abb0d081cacfa1f7980da2cfaf7
+=======
 >>>>>>> 532f91860b414abb0d081cacfa1f7980da2cfaf7
 =======
 >>>>>>> 532f91860b414abb0d081cacfa1f7980da2cfaf7
